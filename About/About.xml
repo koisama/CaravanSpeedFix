@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>CaravanSpeedFix</name>
+	<author>koisama</author>
+	<url>https://ludeon.com/forums/index.php?topic=16558.0</url>
+	<targetVersion>0.16.1393</targetVersion>
+	<description>
+Fix caravan speed when it has modified pawns.
+	</description>
+</ModMetaData>
